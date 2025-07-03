@@ -3,10 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dkeren&label=Profile%20views&color=0e75b6&style=flat" alt="dkeren" /> </p>
 
-<p align="left"> 
+<p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=dkeren&include_private=true&count_private=true" alt="dkeren" />
-  </a> 
+    <img src="https://github-profile-trophy.vercel.app/?username=dkeren&theme=gruvbox&column=4&margin-w=15&margin-h=15&include_private=true&count_private=true" alt="dkeren" />
+  </a>
 </p>
 
 - 🔭 I’m currently working on **MDHH PROJECT**
