@@ -1,7 +1,7 @@
 <div align="center">
 
 # **Hi 👋, I'm KhoaHuuDeang**
-### **FULLSTRESSFULLSTRESS DEVELOPER**
+### **FULLSTRESS  DEVELOPER**
 
 <img height="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnlkcGRjbHFxOHJ5anV2MnFmM3l0bzJjenZ4dzVnNGR1M2R1dnYxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dKBES1ypGwZdyFQBQ7/giphy.gif" />
 
