@@ -31,7 +31,7 @@ const KhoaHuuDeang = {
     currentRole: "Fullstack Developer",
     education: "Nguyen Tat Thanh University",
     location: "Vietnam 🇻🇳",
-    interests: ["Coding", "Badminton", "League of Legends","Persona/Oppenheimer soundtrack"],
+    interests: ["Coding", "Badminton", "League of Legends","Persona/Oppenheimer/Interstellar soundtrack"],
 };
 ```
 
