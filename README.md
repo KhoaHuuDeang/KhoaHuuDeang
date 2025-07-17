@@ -24,8 +24,9 @@
 ---
 
 
- <div align="center">
-  ![Snake animation](https://github.com/danielbped/KhoaHuuDeang/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+
+  ![Snake animation](https://github.com/KhoaHuuDeang/danielbped/blob/output/github-contribution-grid-snake.svg)
  </div>
 
 
