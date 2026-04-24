@@ -1,11 +1,13 @@
 <div align="center">
+  <img height="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExenVubWJrcmowZWdyejhoeTdnanB0Z2ZramoyaHhiajQ3dWdreDVyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c0PX1PqTeqhbtKMekM/giphy.gif" alt="Header Animation" />
 
-<img src="https://komarev.com/ghpvc/?username=KhoaHuuDeang&label=Profile%20Views&color=0d1117&style=flat-square" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/KhoaHuuDeang?label=Followers&style=flat-square&color=0d1117" />
-&nbsp;
-<img src="https://img.shields.io/github/stars/KhoaHuuDeang?label=Stars&style=flat-square&color=0d1117" />
+  <br/>
 
+  <img src="https://komarev.com/ghpvc/?username=KhoaHuuDeang&label=Profile%20Views&color=0d1117&style=flat-square" alt="Views" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/KhoaHuuDeang?label=Followers&style=flat-square&color=0d1117" alt="Followers" />
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/KhoaHuuDeang?label=Stars&style=flat-square&color=0d1117" alt="Stars" />
 </div>
 
 ---
