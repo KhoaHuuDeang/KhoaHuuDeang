@@ -60,6 +60,10 @@ Currently working with **Azure Cloud Services** and **Google AI Cloud Services**
 </div>
 
 ---
+<div align="center">
+  <h2>Trophies</h2>
+  <img src="https://github-profile-trophy.vercel.app/?username=KhoaHuuDeang&theme=radical&column=4&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies" />
+</div>
 
 ## Connect
 
