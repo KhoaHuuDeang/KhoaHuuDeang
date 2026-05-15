@@ -11,8 +11,14 @@
 </div>
 
 ---
+## Connect
 
-## Khoa Huu Dang
+<div align="center">
+
+[![Facebook](https://img.shields.io/badge/Facebook-KhoaHuuDeang-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/danghuukhoa.dang)
+
+</div>
+
 
 Remote Dev · Ho Chi Minh City, Vietnam
 
@@ -65,10 +71,4 @@ Currently working with **Azure Cloud Services** and **Google AI Cloud Services**
   <img src="https://github-profile-trophy.vercel.app/?username=KhoaHuuDeang&theme=radical&column=4&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies" />
 </div>
 
-## Connect
 
-<div align="center">
-
-[![Facebook](https://img.shields.io/badge/Facebook-KhoaHuuDeang-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/danghuukhoa.dang)
-
-</div>
