@@ -14,7 +14,7 @@
 
 ## Khoa Huu Dang
 
-Fullstack Developer · Ho Chi Minh City, Vietnam
+Remote Dev · Ho Chi Minh City, Vietnam
 
 Currently working with **Azure Cloud Services** and **Google AI Cloud Services**, building voice-driven automation systems.
 
